@@ -6,6 +6,7 @@ version: 0.7dev
 api:
 - 3.0.0-ALPHA8
 - 3.0.0-ALPHA10
+- 3.0.0-ALPHA11
 
 load: STARTUP
 
